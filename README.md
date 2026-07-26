@@ -24,9 +24,10 @@ Border Control System is a Python application that simulates the workflow of a b
 ## Team Members
 
 - Moataz Arafat
-- Member 2
-- Member 3
-- Member 4
+- Mina Aymen
+- Ziad Adel
+- Fatma Tarek
+- Radwa Mohamed
 
 ## Project Structure
 
