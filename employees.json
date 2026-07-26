@@ -1,0 +1,124 @@
+{
+    "employees": [
+        {
+            "employee_id": "EMP001",
+            "name": "Moataz Arafat",
+            "password": "13245",
+            "email": "moatazarafat223@gmail.com"
+        },
+        {
+            "employee_id": "EMP002",
+            "name": "Sara Mohamed",
+            "password": "5678",
+            "email": "sara.mohamed@gmail.com"
+        },
+        {
+            "employee_id": "EMP003",
+            "name": "Omar Hassan",
+            "password": "9012",
+            "email": "omar.hassan@gmail.com"
+        },
+        {
+            "employee_id": "EMP004",
+            "name": "Mona Ibrahim",
+            "password": "3456",
+            "email": "mona.ibrahim@gmail.com"
+        },
+        {
+            "employee_id": "EMP005",
+            "name": "Youssef Mahmoud",
+            "password": "7890",
+            "email": "youssef.mahmoud@gmail.com"
+        },
+        {
+            "employee_id": "EMP006",
+            "name": "Nour ElDin",
+            "password": "1122",
+            "email": "nour.eldin@gmail.com"
+        },
+        {
+            "employee_id": "EMP007",
+            "name": "Karim Adel",
+            "password": "3344",
+            "email": "karim.adel@gmail.com"
+        },
+        {
+            "employee_id": "EMP008",
+            "name": "Salma Mostafa",
+            "password": "5566",
+            "email": "salma.mostafa@gmail.com"
+        },
+        {
+            "employee_id": "EMP009",
+            "name": "Mahmoud Samir",
+            "password": "7788",
+            "email": "mahmoud.samir@gmail.com"
+        },
+        {
+            "employee_id": "EMP010",
+            "name": "Laila Ashraf",
+            "password": "9900",
+            "email": "laila.ashraf@gmail.com"
+        },
+        {
+            "employee_id": "EMP011",
+            "name": "Mohamed Tarek",
+            "password": "1357",
+            "email": "mohamed.tarek@gmail.com"
+        },
+        {
+            "employee_id": "EMP012",
+            "name": "Aya Khaled",
+            "password": "2468",
+            "email": "aya.khaled@gmail.com"
+        },
+        {
+            "employee_id": "EMP013",
+            "name": "Hassan Fathy",
+            "password": "1111",
+            "email": "hassan.fathy@gmail.com"
+        },
+        {
+            "employee_id": "EMP014",
+            "name": "Reem Adel",
+            "password": "2222",
+            "email": "reem.adel@gmail.com"
+        },
+        {
+            "employee_id": "EMP015",
+            "name": "Mostafa Nabil",
+            "password": "3333",
+            "email": "mostafa.nabil@gmail.com"
+        },
+        {
+            "employee_id": "EMP016",
+            "name": "Nada Hossam",
+            "password": "4444",
+            "email": "nada.hossam@gmail.com"
+        },
+        {
+            "employee_id": "EMP017",
+            "name": "Ali Gamal",
+            "password": "5555",
+            "email": "ali.gamal@gmail.com"
+        },
+        {
+            "employee_id": "EMP018",
+            "name": "Mariam Saeed",
+            "password": "6666",
+            "email": "mariam.saeed@gmail.com"
+        },
+        {
+            "employee_id": "EMP019",
+            "name": "Khaled Amin",
+            "password": "7777",
+            "email": "khaled.amin@gmail.com"
+        },
+        {
+            "employee_id": "EMP020",
+            "name": "Dina Sherif",
+            "password": "8888",
+            "email": "dina.sherif@gmail.com"
+        }
+    ]
+}
